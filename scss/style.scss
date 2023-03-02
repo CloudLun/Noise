@@ -1,0 +1,345 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    overflow-y: scroll;
+    .container {
+        width: 100vw;
+        height: 100vh;
+        #map {
+            position: absolute;
+            width: 100vw;
+            height: 100vh;
+            z-index: 1;
+        }
+        .nav {
+            position: absolute;
+            top: 30px;
+            left: 50%;
+            transform: translate(-50%, 0);
+            display: flex;
+            justify-content: space-between;
+            width: calc(100% - 40px);
+            z-index: 10;
+            .titles {
+                .title {
+                    font-size: 32px;
+                    font-weight: 500;
+                    color: white;
+                    line-height: 25px;
+                    letter-spacing: 0.75px;
+                    z-index: 10;
+                }
+                .subtitle {
+                    margin-top: 12px;
+                    font-size: 18px;
+                    letter-spacing: 0.75px;
+                    color: gray;
+                }
+            }
+
+            .legend {
+                padding: 15px 15px;
+                height: 120px;
+                width: 200px;
+                background-color: rgba($color: #000, $alpha: 0.8);
+                border: 0.5px solid rgba($color: gray, $alpha: 0.2);
+                border-radius: 10px;
+                z-index: 10;
+                .legend_title {
+                    font-size: 18px;
+                    font-weight: 700;
+                    color: white;
+                }
+                p {
+                    margin: 10px 0 20px 0;
+                    font-size: 10px;
+                    color: gray;
+                }
+                .legend_texts {
+                    display: flex;
+                    justify-content: space-between;
+                    .legend_text {
+                        font-size: 12px;
+                        color: white;
+                    }
+                }
+                .legend_blocks {
+                    display: flex;
+                    width: 100%;
+                    .legend_block {
+                        display: block;
+                        width: 25%;
+                        height: 10px;
+                    }
+                    #highest {
+                        background-color: #d00000;
+                    }
+                    #high {
+                        background-color: #dc2f02;
+                    }
+                    #medium {
+                        background-color: #e85d04;
+                    }
+                    #low {
+                        background-color: #f48c06;
+                    }
+                    #lowest {
+                        background-color: #ffba08;
+                    }
+                }
+            }
+        }
+        .month_selection {
+            position: absolute;
+            left: 20px;
+            top: 150px;
+            color: white;
+
+            z-index: 10;
+            p {
+                margin-bottom: 2px;
+                padding-left: 5px;
+                font-size: 10px;
+                color: gray;
+            }
+            select {
+                padding: 5px;
+                width: 200px;
+                font-size: 18px;
+                color: white;
+                background-color: rgba($color: #000000, $alpha: 0.8);
+                border: 0.5px solid rgba($color: gray, $alpha: 0.2);
+                border-radius: 10px;
+            }
+        }
+
+        .boro_selection {
+            position: absolute;
+            left: 20px;
+            top: 230px;
+            color: white;
+            z-index: 10;
+            p {
+                margin-bottom: 2px;
+                padding-left: 5px;
+                font-size: 10px;
+                color: gray;
+            }
+            select {
+                padding: 5px;
+                width: 200px;
+                font-size: 18px;
+                color: white;
+                background-color: rgba($color: #000000, $alpha: 0.8);
+                border: 0.5px solid rgba($color: gray, $alpha: 0.2);
+                border-radius: 10px;
+            }
+        }
+
+        #lineChart {
+            position: absolute;
+            bottom: 30px;
+            left: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            padding: 30px 0;
+            width: 447px;
+            height: calc(35%);
+            color: white;
+            background-color: rgba($color: #000000, $alpha: 0.8);
+            border: 0.5px solid rgba($color: gray, $alpha: 0.2);
+            border-radius: 10px;
+            z-index: 20;
+            .line_titles {
+                width: 100%;
+                .line_title {
+                    line-height: 3px;
+                    padding-left: 40px;
+                    width: 100%;
+                    font-size: 18px;
+                    font-weight: 700;
+                }
+                .line_subtitles {
+                    margin: 0;
+                    padding-top: 0;
+                    padding-left: 40px;
+                    width: 100%;
+                    color: gray;
+                }
+            }
+
+            .yAxis {
+                path {
+                    visibility: hidden;
+                }
+            }
+        }
+        .description {
+            position: absolute;
+            right: 20px;
+            bottom: 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            font-size: 16px;
+            color: white;
+            z-index: 10;
+            div {
+                p {
+                    margin: 10px;
+                    text-align: end;
+                    line-height: 100%;
+                }
+                .num {
+                    font-size: 42px;
+                    font-weight: 700;
+                    color: #f7e6e8;
+                    letter-spacing: 2px;
+                }
+                .highest,
+                .lowest {
+                    font-weight: 700;
+                }
+            }
+        }
+        .btn_circle {
+            position: absolute;
+            bottom: 22.5px;
+            left: 50%;
+            transform: translate(-27.5%, 0);
+            display: block;
+            width: 45px;
+            height: 45px;
+            border: 2px solid #fff;
+            border-radius: 50%;
+            z-index: 100;
+        }
+        .btn_arrow {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translate(-50%, 0);
+            display: block;
+            width: 20px;
+            height: 20px;
+            border-top: 2px solid #fff;
+            border-left: 2px solid #fff;
+            transform: rotate(225deg);
+            cursor: pointer;
+            z-index: 100;
+        }
+    }
+
+    .multiples {
+        margin: 0;
+        padding: 0;
+        .multiples_wrapper {
+            // border: 1px solid white;
+            display: flex;
+            flex-direction: column;
+            margin: auto;
+            width: 75vw;
+            height: 100vh;
+            .multi_nav {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+
+                .multi_title {
+                    margin: 30px 0;
+                    font-size: 28px;
+                    font-weight: 700;
+                    color: white;
+                }
+                .multi_legends {
+                    display: flex;
+                    gap: 25px;
+                    padding-right: 40px;
+                    font-size: 14px;
+                    color: white;
+                    .multi_legend {
+                        display: flex;
+                        align-items: center;
+                        gap: 5px;
+                        .blue {
+                            display: block;
+                            width: 10px;
+                            height: 10px;
+                            background-color: #00a8e8;
+                        }
+                        .red {
+                            display: block;
+                            width: 10px;
+                            height: 10px;
+                            background-color: #f45b69;
+                        }
+                        .yellow {
+                            display: block;
+                            width: 10px;
+                            height: 10px;
+                            background-color: #ffea00;
+                        }
+                        .green {
+                            display: block;
+                            width: 10px;
+                            height: 10px;
+                            background-color: #06a77d;
+                        }
+                    }
+                }
+            }
+            .multi_charts {
+                // border: 1px solid red;
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: 1fr 1fr;
+                width: 100%;
+                height: 92%;
+                color: gray;
+                // overflow-y: scroll;
+                .multi_chart {
+                    // border: 0.1px solid yellow;
+                    width: 100%;
+                    height: 100%;
+                    .xAxis {
+                        path {
+                            visibility: hidden;
+                        }
+                    }
+                    .yAxis {
+                        path {
+                            visibility: hidden;
+                        }
+                    }
+                    .multiboro {
+                        margin-bottom: 30px;
+                        color: white;
+                    }
+                    // .multi_map {
+                    //     border: 1px solid green;
+                    //     width: 100%;
+                    //     height: 40%;
+                    // }
+                    // .multi_line {
+                    //     border: 1px solid blue;
+                    //     width: 100%;
+                    //     height: 60%;
+                    // }
+                }
+            }
+        }
+    }
+    .tooltip {
+        padding: 0 8px;
+        position: absolute;
+        text-align: center;
+        color: white;
+        background-color: rgba($color: #000000, $alpha: 0.5);
+        visibility: hidden;
+        cursor: pointer;
+        z-index: 1200;
+    }
+}

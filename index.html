@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./scss/style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <div id="map"></div>
+      <div class="nav">
+        <div class="titles">
+          <div class="title">New York City Noisescape</div>
+          <div class="subtitle">311 Noise Complaints in NYC</div>
+        </div>
+
+        <div class="legend">
+          <div class="legend_title">Legend</div>
+          <p>The color blocks show the extent of case numbers</p>
+          <div class="legend_texts">
+            <div class="legend_text">LOW</div>
+            <div class="legend_text">HIGH</div>
+          </div>
+          <div class="legend_blocks">
+            <div class="legend_block" id="lowest"></div>
+            <div class="legend_block" id="low"></div>
+            <div class="legend_block" id="medium"></div>
+            <div class="legend_block" id="high"></div>
+            <div class="legend_block" id="highest"></div>
+          </div>
+        </div>
+      </div>
+      <div class="month_selection">
+        <p>Please select a month</p>
+        <select name="month" id="month">
+          <option value="0">January</option>
+          <option value="1">Febuary</option>
+          <option value="2">March</option>
+          <option value="3">April</option>
+          <option value="4">May</option>
+          <option value="5">June</option>
+          <option value="6">July</option>
+          <option value="7">August</option>
+          <option value="8">September</option>
+          <option value="9">October</option>
+          <option value="10">November</option>
+          <option value="11">December</option>
+        </select>
+      </div>
+      <div class="boro_selection">
+        <p>Please select a borough</p>
+        <select name="boro" id="boro">
+          <option value="All">All</option>
+          <option value="Manhattan">Manhattan</option>
+          <option value="Brooklyn">Brooklyn</option>
+          <option value="Queens">Queens</option>
+          <option value="Bronx">Bronx</option>
+        </select>
+      </div>
+
+      <div id="lineChart">
+        <div class="line_titles">
+          <p class="line_title">Total Noise Cases By Housr</p>
+          <p class="line_subtitles">
+            <span class="line_boro">All</span>,
+            <span class="line_month">January</span>
+          </p>
+        </div>
+      </div>
+      <div class="description">
+        <div>
+          <p>Highest</p>
+          <p class="highest">Gravesend (East)-Homecrest</p>
+          <p class="num" id="highest_num">159795610293</p>
+        </div>
+        <div>
+          <p>Lowest</p>
+          <p class="lowest">East Flushing</p>
+          <p class="num" id="lowest_num">48536537</p>
+        </div>
+        <div>
+          <p>Average</p>
+          <p>Cases</p>
+          <p class="num" id="average_num">1983744007</p>
+        </div>
+      </div>
+      <div class="btn_circle"></div>
+      <div class="btn_arrow"></div>
+    </div>
+
+    <div class="multiples">
+      <div class="multiples_wrapper">
+        <div class="multi_nav">
+          <section class="multi_title">
+            Complaint Types in <span class="title_month">January</span> By Hours
+          </section>
+          <div class="multi_legends">
+            <div class="multi_legend">
+              <div class="blue"></div>
+              <div>Loud Music/Party</div>
+            </div>
+            <div class="multi_legend">
+              <div class="red"></div>
+              <div>Banging/Pounding</div>
+            </div>
+            <div class="multi_legend">
+              <div class="yellow"></div>
+              <div>Car/Truck Music</div>
+            </div>
+            <div class="multi_legend">
+              <div class="green"></div>
+              <div>Loud Talking</div>
+            </div>
+          </div>
+        </div>
+
+        <section class="multi_charts">
+          <div class="multi_chart" id="ManhattanType">
+            <div class="multiboro">Manhattan</div>
+          </div>
+          <div class="multi_chart" id="Brooklyn">
+            <div class="multiboro">Brooklyn</div>
+          </div>
+          <div class="multi_chart" id="Queens">
+            <div class="multiboro">Queens</div>
+          </div>
+          <div class="multi_chart" id="Bronx">
+            <div class="multiboro">Bronx</div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <script src="./app.js"></script>
+    <script src="./lineChart.js"></script>
+    <script src="./multipleLineChart.js"></script>
+    <script src="./map.js"></script>
+  </body>
+</html>

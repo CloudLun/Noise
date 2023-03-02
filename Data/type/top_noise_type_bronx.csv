@@ -1,0 +1,1151 @@
+,complaint_type,month,hour,noise_count
+0,Banging/Pounding,1,00,166
+1,Banging/Pounding,1,01,125
+2,Banging/Pounding,1,02,77
+3,Banging/Pounding,1,03,50
+4,Banging/Pounding,1,04,36
+5,Banging/Pounding,1,05,42
+6,Banging/Pounding,1,06,26
+7,Banging/Pounding,1,07,47
+8,Banging/Pounding,1,08,61
+9,Banging/Pounding,1,09,68
+10,Banging/Pounding,1,10,74
+11,Banging/Pounding,1,11,97
+12,Banging/Pounding,1,12,89
+13,Banging/Pounding,1,13,94
+14,Banging/Pounding,1,14,89
+15,Banging/Pounding,1,15,125
+16,Banging/Pounding,1,16,100
+17,Banging/Pounding,1,17,115
+18,Banging/Pounding,1,18,143
+19,Banging/Pounding,1,19,126
+20,Banging/Pounding,1,20,152
+21,Banging/Pounding,1,21,172
+22,Banging/Pounding,1,22,210
+23,Banging/Pounding,1,23,223
+24,Banging/Pounding,2,00,177
+25,Banging/Pounding,2,01,106
+26,Banging/Pounding,2,02,94
+27,Banging/Pounding,2,03,45
+28,Banging/Pounding,2,04,44
+29,Banging/Pounding,2,05,37
+30,Banging/Pounding,2,06,22
+31,Banging/Pounding,2,07,39
+32,Banging/Pounding,2,08,48
+33,Banging/Pounding,2,09,57
+34,Banging/Pounding,2,10,77
+35,Banging/Pounding,2,11,101
+36,Banging/Pounding,2,12,89
+37,Banging/Pounding,2,13,79
+38,Banging/Pounding,2,14,89
+39,Banging/Pounding,2,15,102
+40,Banging/Pounding,2,16,95
+41,Banging/Pounding,2,17,110
+42,Banging/Pounding,2,18,119
+43,Banging/Pounding,2,19,139
+44,Banging/Pounding,2,20,120
+45,Banging/Pounding,2,21,168
+46,Banging/Pounding,2,22,207
+47,Banging/Pounding,2,23,242
+48,Banging/Pounding,3,00,181
+49,Banging/Pounding,3,01,112
+50,Banging/Pounding,3,02,73
+51,Banging/Pounding,3,03,60
+52,Banging/Pounding,3,04,41
+53,Banging/Pounding,3,05,37
+54,Banging/Pounding,3,06,30
+55,Banging/Pounding,3,07,44
+56,Banging/Pounding,3,08,49
+57,Banging/Pounding,3,09,69
+58,Banging/Pounding,3,10,83
+59,Banging/Pounding,3,11,77
+60,Banging/Pounding,3,12,68
+61,Banging/Pounding,3,13,97
+62,Banging/Pounding,3,14,84
+63,Banging/Pounding,3,15,92
+64,Banging/Pounding,3,16,86
+65,Banging/Pounding,3,17,84
+66,Banging/Pounding,3,18,77
+67,Banging/Pounding,3,19,118
+68,Banging/Pounding,3,20,146
+69,Banging/Pounding,3,21,161
+70,Banging/Pounding,3,22,197
+71,Banging/Pounding,3,23,212
+72,Banging/Pounding,4,00,131
+73,Banging/Pounding,4,01,94
+74,Banging/Pounding,4,02,66
+75,Banging/Pounding,4,03,38
+76,Banging/Pounding,4,04,24
+77,Banging/Pounding,4,05,20
+78,Banging/Pounding,4,06,35
+79,Banging/Pounding,4,07,33
+80,Banging/Pounding,4,08,54
+81,Banging/Pounding,4,09,69
+82,Banging/Pounding,4,10,75
+83,Banging/Pounding,4,11,81
+84,Banging/Pounding,4,12,60
+85,Banging/Pounding,4,13,62
+86,Banging/Pounding,4,14,79
+87,Banging/Pounding,4,15,71
+88,Banging/Pounding,4,16,67
+89,Banging/Pounding,4,17,85
+90,Banging/Pounding,4,18,97
+91,Banging/Pounding,4,19,106
+92,Banging/Pounding,4,20,128
+93,Banging/Pounding,4,21,165
+94,Banging/Pounding,4,22,170
+95,Banging/Pounding,4,23,171
+96,Banging/Pounding,5,00,140
+97,Banging/Pounding,5,01,99
+98,Banging/Pounding,5,02,70
+99,Banging/Pounding,5,03,45
+100,Banging/Pounding,5,04,39
+101,Banging/Pounding,5,05,38
+102,Banging/Pounding,5,06,40
+103,Banging/Pounding,5,07,47
+104,Banging/Pounding,5,08,41
+105,Banging/Pounding,5,09,59
+106,Banging/Pounding,5,10,59
+107,Banging/Pounding,5,11,60
+108,Banging/Pounding,5,12,61
+109,Banging/Pounding,5,13,85
+110,Banging/Pounding,5,14,61
+111,Banging/Pounding,5,15,71
+112,Banging/Pounding,5,16,71
+113,Banging/Pounding,5,17,91
+114,Banging/Pounding,5,18,95
+115,Banging/Pounding,5,19,104
+116,Banging/Pounding,5,20,129
+117,Banging/Pounding,5,21,132
+118,Banging/Pounding,5,22,177
+119,Banging/Pounding,5,23,178
+120,Banging/Pounding,6,00,144
+121,Banging/Pounding,6,01,104
+122,Banging/Pounding,6,02,65
+123,Banging/Pounding,6,03,31
+124,Banging/Pounding,6,04,28
+125,Banging/Pounding,6,05,23
+126,Banging/Pounding,6,06,28
+127,Banging/Pounding,6,07,26
+128,Banging/Pounding,6,08,61
+129,Banging/Pounding,6,09,51
+130,Banging/Pounding,6,10,57
+131,Banging/Pounding,6,11,77
+132,Banging/Pounding,6,12,58
+133,Banging/Pounding,6,13,71
+134,Banging/Pounding,6,14,60
+135,Banging/Pounding,6,15,75
+136,Banging/Pounding,6,16,81
+137,Banging/Pounding,6,17,70
+138,Banging/Pounding,6,18,83
+139,Banging/Pounding,6,19,110
+140,Banging/Pounding,6,20,150
+141,Banging/Pounding,6,21,142
+142,Banging/Pounding,6,22,181
+143,Banging/Pounding,6,23,165
+144,Banging/Pounding,7,00,128
+145,Banging/Pounding,7,01,93
+146,Banging/Pounding,7,02,80
+147,Banging/Pounding,7,03,32
+148,Banging/Pounding,7,04,32
+149,Banging/Pounding,7,05,34
+150,Banging/Pounding,7,06,23
+151,Banging/Pounding,7,07,44
+152,Banging/Pounding,7,08,36
+153,Banging/Pounding,7,09,42
+154,Banging/Pounding,7,10,41
+155,Banging/Pounding,7,11,37
+156,Banging/Pounding,7,12,32
+157,Banging/Pounding,7,13,45
+158,Banging/Pounding,7,14,51
+159,Banging/Pounding,7,15,58
+160,Banging/Pounding,7,16,53
+161,Banging/Pounding,7,17,64
+162,Banging/Pounding,7,18,84
+163,Banging/Pounding,7,19,94
+164,Banging/Pounding,7,20,95
+165,Banging/Pounding,7,21,126
+166,Banging/Pounding,7,22,158
+167,Banging/Pounding,7,23,184
+168,Banging/Pounding,8,00,94
+169,Banging/Pounding,8,01,81
+170,Banging/Pounding,8,02,73
+171,Banging/Pounding,8,03,46
+172,Banging/Pounding,8,04,35
+173,Banging/Pounding,8,05,26
+174,Banging/Pounding,8,06,26
+175,Banging/Pounding,8,07,33
+176,Banging/Pounding,8,08,31
+177,Banging/Pounding,8,09,47
+178,Banging/Pounding,8,10,43
+179,Banging/Pounding,8,11,39
+180,Banging/Pounding,8,12,42
+181,Banging/Pounding,8,13,55
+182,Banging/Pounding,8,14,56
+183,Banging/Pounding,8,15,62
+184,Banging/Pounding,8,16,59
+185,Banging/Pounding,8,17,68
+186,Banging/Pounding,8,18,56
+187,Banging/Pounding,8,19,82
+188,Banging/Pounding,8,20,107
+189,Banging/Pounding,8,21,117
+190,Banging/Pounding,8,22,112
+191,Banging/Pounding,8,23,117
+192,Banging/Pounding,9,00,116
+193,Banging/Pounding,9,01,85
+194,Banging/Pounding,9,02,61
+195,Banging/Pounding,9,03,45
+196,Banging/Pounding,9,04,39
+197,Banging/Pounding,9,05,42
+198,Banging/Pounding,9,06,31
+199,Banging/Pounding,9,07,53
+200,Banging/Pounding,9,08,49
+201,Banging/Pounding,9,09,57
+202,Banging/Pounding,9,10,56
+203,Banging/Pounding,9,11,48
+204,Banging/Pounding,9,12,56
+205,Banging/Pounding,9,13,60
+206,Banging/Pounding,9,14,48
+207,Banging/Pounding,9,15,59
+208,Banging/Pounding,9,16,74
+209,Banging/Pounding,9,17,94
+210,Banging/Pounding,9,18,105
+211,Banging/Pounding,9,19,120
+212,Banging/Pounding,9,20,149
+213,Banging/Pounding,9,21,143
+214,Banging/Pounding,9,22,135
+215,Banging/Pounding,9,23,119
+216,Banging/Pounding,10,00,121
+217,Banging/Pounding,10,01,83
+218,Banging/Pounding,10,02,64
+219,Banging/Pounding,10,03,49
+220,Banging/Pounding,10,04,41
+221,Banging/Pounding,10,05,39
+222,Banging/Pounding,10,06,57
+223,Banging/Pounding,10,07,55
+224,Banging/Pounding,10,08,44
+225,Banging/Pounding,10,09,51
+226,Banging/Pounding,10,10,63
+227,Banging/Pounding,10,11,50
+228,Banging/Pounding,10,12,67
+229,Banging/Pounding,10,13,62
+230,Banging/Pounding,10,14,53
+231,Banging/Pounding,10,15,74
+232,Banging/Pounding,10,16,79
+233,Banging/Pounding,10,17,90
+234,Banging/Pounding,10,18,114
+235,Banging/Pounding,10,19,137
+236,Banging/Pounding,10,20,157
+237,Banging/Pounding,10,21,172
+238,Banging/Pounding,10,22,174
+239,Banging/Pounding,10,23,148
+240,Banging/Pounding,11,00,150
+241,Banging/Pounding,11,01,81
+242,Banging/Pounding,11,02,64
+243,Banging/Pounding,11,03,31
+244,Banging/Pounding,11,04,40
+245,Banging/Pounding,11,05,42
+246,Banging/Pounding,11,06,50
+247,Banging/Pounding,11,07,52
+248,Banging/Pounding,11,08,42
+249,Banging/Pounding,11,09,40
+250,Banging/Pounding,11,10,60
+251,Banging/Pounding,11,11,52
+252,Banging/Pounding,11,12,55
+253,Banging/Pounding,11,13,72
+254,Banging/Pounding,11,14,59
+255,Banging/Pounding,11,15,72
+256,Banging/Pounding,11,16,101
+257,Banging/Pounding,11,17,121
+258,Banging/Pounding,11,18,125
+259,Banging/Pounding,11,19,146
+260,Banging/Pounding,11,20,152
+261,Banging/Pounding,11,21,177
+262,Banging/Pounding,11,22,187
+263,Banging/Pounding,11,23,150
+264,Banging/Pounding,12,00,160
+265,Banging/Pounding,12,01,102
+266,Banging/Pounding,12,02,70
+267,Banging/Pounding,12,03,43
+268,Banging/Pounding,12,04,46
+269,Banging/Pounding,12,05,33
+270,Banging/Pounding,12,06,49
+271,Banging/Pounding,12,07,54
+272,Banging/Pounding,12,08,53
+273,Banging/Pounding,12,09,52
+274,Banging/Pounding,12,10,57
+275,Banging/Pounding,12,11,61
+276,Banging/Pounding,12,12,80
+277,Banging/Pounding,12,13,84
+278,Banging/Pounding,12,14,69
+279,Banging/Pounding,12,15,73
+280,Banging/Pounding,12,16,113
+281,Banging/Pounding,12,17,124
+282,Banging/Pounding,12,18,122
+283,Banging/Pounding,12,19,167
+284,Banging/Pounding,12,20,173
+285,Banging/Pounding,12,21,192
+286,Banging/Pounding,12,22,211
+287,Banging/Pounding,12,23,181
+288,Car/Truck Music,1,00,26
+289,Car/Truck Music,1,01,15
+290,Car/Truck Music,1,02,10
+291,Car/Truck Music,1,03,3
+292,Car/Truck Music,1,04,7
+293,Car/Truck Music,1,05,1
+294,Car/Truck Music,1,06,3
+295,Car/Truck Music,1,07,3
+296,Car/Truck Music,1,08,4
+297,Car/Truck Music,1,09,6
+298,Car/Truck Music,1,10,4
+299,Car/Truck Music,1,11,7
+300,Car/Truck Music,1,12,9
+301,Car/Truck Music,1,13,6
+302,Car/Truck Music,1,14,6
+303,Car/Truck Music,1,15,15
+304,Car/Truck Music,1,16,15
+305,Car/Truck Music,1,17,20
+306,Car/Truck Music,1,18,22
+307,Car/Truck Music,1,19,8
+308,Car/Truck Music,1,20,13
+309,Car/Truck Music,1,21,17
+310,Car/Truck Music,1,22,32
+311,Car/Truck Music,1,23,24
+312,Car/Truck Music,2,00,15
+313,Car/Truck Music,2,01,16
+314,Car/Truck Music,2,02,8
+315,Car/Truck Music,2,03,5
+316,Car/Truck Music,2,04,6
+317,Car/Truck Music,2,05,6
+318,Car/Truck Music,2,06,4
+319,Car/Truck Music,2,07,1
+320,Car/Truck Music,2,08,2
+321,Car/Truck Music,2,09,7
+322,Car/Truck Music,2,10,4
+323,Car/Truck Music,2,11,2
+324,Car/Truck Music,2,12,7
+325,Car/Truck Music,2,13,9
+326,Car/Truck Music,2,14,4
+327,Car/Truck Music,2,15,8
+328,Car/Truck Music,2,16,10
+329,Car/Truck Music,2,17,16
+330,Car/Truck Music,2,18,8
+331,Car/Truck Music,2,19,11
+332,Car/Truck Music,2,20,30
+333,Car/Truck Music,2,21,33
+334,Car/Truck Music,2,22,27
+335,Car/Truck Music,2,23,32
+336,Car/Truck Music,3,00,108
+337,Car/Truck Music,3,01,55
+338,Car/Truck Music,3,02,25
+339,Car/Truck Music,3,03,13
+340,Car/Truck Music,3,04,14
+341,Car/Truck Music,3,05,9
+342,Car/Truck Music,3,06,5
+343,Car/Truck Music,3,07,3
+344,Car/Truck Music,3,08,9
+345,Car/Truck Music,3,09,1
+346,Car/Truck Music,3,10,4
+347,Car/Truck Music,3,11,7
+348,Car/Truck Music,3,12,13
+349,Car/Truck Music,3,13,20
+350,Car/Truck Music,3,14,21
+351,Car/Truck Music,3,15,63
+352,Car/Truck Music,3,16,70
+353,Car/Truck Music,3,17,74
+354,Car/Truck Music,3,18,96
+355,Car/Truck Music,3,19,111
+356,Car/Truck Music,3,20,84
+357,Car/Truck Music,3,21,112
+358,Car/Truck Music,3,22,124
+359,Car/Truck Music,3,23,126
+360,Car/Truck Music,4,00,239
+361,Car/Truck Music,4,01,110
+362,Car/Truck Music,4,02,55
+363,Car/Truck Music,4,03,26
+364,Car/Truck Music,4,04,17
+365,Car/Truck Music,4,05,18
+366,Car/Truck Music,4,06,7
+367,Car/Truck Music,4,07,5
+368,Car/Truck Music,4,08,2
+369,Car/Truck Music,4,09,3
+370,Car/Truck Music,4,10,4
+371,Car/Truck Music,4,11,6
+372,Car/Truck Music,4,12,14
+373,Car/Truck Music,4,13,28
+374,Car/Truck Music,4,14,28
+375,Car/Truck Music,4,15,57
+376,Car/Truck Music,4,16,66
+377,Car/Truck Music,4,17,121
+378,Car/Truck Music,4,18,140
+379,Car/Truck Music,4,19,198
+380,Car/Truck Music,4,20,225
+381,Car/Truck Music,4,21,225
+382,Car/Truck Music,4,22,271
+383,Car/Truck Music,4,23,274
+384,Car/Truck Music,5,00,324
+385,Car/Truck Music,5,01,277
+386,Car/Truck Music,5,02,128
+387,Car/Truck Music,5,03,106
+388,Car/Truck Music,5,04,68
+389,Car/Truck Music,5,05,34
+390,Car/Truck Music,5,06,10
+391,Car/Truck Music,5,07,6
+392,Car/Truck Music,5,08,9
+393,Car/Truck Music,5,09,8
+394,Car/Truck Music,5,10,11
+395,Car/Truck Music,5,11,17
+396,Car/Truck Music,5,12,17
+397,Car/Truck Music,5,13,27
+398,Car/Truck Music,5,14,42
+399,Car/Truck Music,5,15,58
+400,Car/Truck Music,5,16,87
+401,Car/Truck Music,5,17,126
+402,Car/Truck Music,5,18,173
+403,Car/Truck Music,5,19,254
+404,Car/Truck Music,5,20,396
+405,Car/Truck Music,5,21,462
+406,Car/Truck Music,5,22,457
+407,Car/Truck Music,5,23,380
+408,Car/Truck Music,6,00,432
+409,Car/Truck Music,6,01,314
+410,Car/Truck Music,6,02,179
+411,Car/Truck Music,6,03,110
+412,Car/Truck Music,6,04,65
+413,Car/Truck Music,6,05,53
+414,Car/Truck Music,6,06,27
+415,Car/Truck Music,6,07,11
+416,Car/Truck Music,6,08,9
+417,Car/Truck Music,6,09,9
+418,Car/Truck Music,6,10,4
+419,Car/Truck Music,6,11,8
+420,Car/Truck Music,6,12,18
+421,Car/Truck Music,6,13,30
+422,Car/Truck Music,6,14,54
+423,Car/Truck Music,6,15,70
+424,Car/Truck Music,6,16,67
+425,Car/Truck Music,6,17,131
+426,Car/Truck Music,6,18,182
+427,Car/Truck Music,6,19,263
+428,Car/Truck Music,6,20,429
+429,Car/Truck Music,6,21,489
+430,Car/Truck Music,6,22,577
+431,Car/Truck Music,6,23,520
+432,Car/Truck Music,7,00,344
+433,Car/Truck Music,7,01,216
+434,Car/Truck Music,7,02,136
+435,Car/Truck Music,7,03,87
+436,Car/Truck Music,7,04,62
+437,Car/Truck Music,7,05,43
+438,Car/Truck Music,7,06,34
+439,Car/Truck Music,7,07,22
+440,Car/Truck Music,7,08,8
+441,Car/Truck Music,7,09,7
+442,Car/Truck Music,7,10,16
+443,Car/Truck Music,7,11,6
+444,Car/Truck Music,7,12,17
+445,Car/Truck Music,7,13,21
+446,Car/Truck Music,7,14,21
+447,Car/Truck Music,7,15,41
+448,Car/Truck Music,7,16,81
+449,Car/Truck Music,7,17,133
+450,Car/Truck Music,7,18,195
+451,Car/Truck Music,7,19,267
+452,Car/Truck Music,7,20,333
+453,Car/Truck Music,7,21,369
+454,Car/Truck Music,7,22,458
+455,Car/Truck Music,7,23,372
+456,Car/Truck Music,8,00,325
+457,Car/Truck Music,8,01,236
+458,Car/Truck Music,8,02,141
+459,Car/Truck Music,8,03,68
+460,Car/Truck Music,8,04,66
+461,Car/Truck Music,8,05,44
+462,Car/Truck Music,8,06,10
+463,Car/Truck Music,8,07,15
+464,Car/Truck Music,8,08,14
+465,Car/Truck Music,8,09,9
+466,Car/Truck Music,8,10,5
+467,Car/Truck Music,8,11,9
+468,Car/Truck Music,8,12,14
+469,Car/Truck Music,8,13,21
+470,Car/Truck Music,8,14,39
+471,Car/Truck Music,8,15,41
+472,Car/Truck Music,8,16,73
+473,Car/Truck Music,8,17,80
+474,Car/Truck Music,8,18,127
+475,Car/Truck Music,8,19,228
+476,Car/Truck Music,8,20,275
+477,Car/Truck Music,8,21,322
+478,Car/Truck Music,8,22,339
+479,Car/Truck Music,8,23,328
+480,Car/Truck Music,9,00,264
+481,Car/Truck Music,9,01,154
+482,Car/Truck Music,9,02,109
+483,Car/Truck Music,9,03,66
+484,Car/Truck Music,9,04,56
+485,Car/Truck Music,9,05,12
+486,Car/Truck Music,9,06,13
+487,Car/Truck Music,9,07,7
+488,Car/Truck Music,9,08,8
+489,Car/Truck Music,9,09,8
+490,Car/Truck Music,9,10,6
+491,Car/Truck Music,9,11,18
+492,Car/Truck Music,9,12,7
+493,Car/Truck Music,9,13,12
+494,Car/Truck Music,9,14,25
+495,Car/Truck Music,9,15,44
+496,Car/Truck Music,9,16,62
+497,Car/Truck Music,9,17,84
+498,Car/Truck Music,9,18,159
+499,Car/Truck Music,9,19,281
+500,Car/Truck Music,9,20,255
+501,Car/Truck Music,9,21,284
+502,Car/Truck Music,9,22,313
+503,Car/Truck Music,9,23,319
+504,Car/Truck Music,10,00,129
+505,Car/Truck Music,10,01,65
+506,Car/Truck Music,10,02,62
+507,Car/Truck Music,10,03,41
+508,Car/Truck Music,10,04,32
+509,Car/Truck Music,10,05,14
+510,Car/Truck Music,10,06,11
+511,Car/Truck Music,10,07,11
+512,Car/Truck Music,10,08,13
+513,Car/Truck Music,10,09,6
+514,Car/Truck Music,10,10,8
+515,Car/Truck Music,10,11,7
+516,Car/Truck Music,10,12,21
+517,Car/Truck Music,10,13,20
+518,Car/Truck Music,10,14,18
+519,Car/Truck Music,10,15,29
+520,Car/Truck Music,10,16,85
+521,Car/Truck Music,10,17,78
+522,Car/Truck Music,10,18,122
+523,Car/Truck Music,10,19,119
+524,Car/Truck Music,10,20,145
+525,Car/Truck Music,10,21,146
+526,Car/Truck Music,10,22,150
+527,Car/Truck Music,10,23,200
+528,Car/Truck Music,11,00,45
+529,Car/Truck Music,11,01,34
+530,Car/Truck Music,11,02,15
+531,Car/Truck Music,11,03,21
+532,Car/Truck Music,11,04,15
+533,Car/Truck Music,11,05,2
+534,Car/Truck Music,11,06,1
+535,Car/Truck Music,11,07,3
+536,Car/Truck Music,11,08,1
+537,Car/Truck Music,11,09,2
+538,Car/Truck Music,11,10,5
+539,Car/Truck Music,11,11,2
+540,Car/Truck Music,11,12,10
+541,Car/Truck Music,11,13,9
+542,Car/Truck Music,11,14,15
+543,Car/Truck Music,11,15,18
+544,Car/Truck Music,11,16,26
+545,Car/Truck Music,11,17,75
+546,Car/Truck Music,11,18,115
+547,Car/Truck Music,11,19,43
+548,Car/Truck Music,11,20,60
+549,Car/Truck Music,11,21,37
+550,Car/Truck Music,11,22,46
+551,Car/Truck Music,11,23,46
+552,Car/Truck Music,12,00,39
+553,Car/Truck Music,12,01,16
+554,Car/Truck Music,12,02,9
+555,Car/Truck Music,12,03,5
+556,Car/Truck Music,12,04,12
+557,Car/Truck Music,12,05,6
+558,Car/Truck Music,12,06,2
+559,Car/Truck Music,12,07,2
+560,Car/Truck Music,12,09,2
+561,Car/Truck Music,12,11,4
+562,Car/Truck Music,12,12,6
+563,Car/Truck Music,12,13,13
+564,Car/Truck Music,12,14,9
+565,Car/Truck Music,12,15,17
+566,Car/Truck Music,12,16,31
+567,Car/Truck Music,12,17,29
+568,Car/Truck Music,12,18,27
+569,Car/Truck Music,12,19,30
+570,Car/Truck Music,12,20,26
+571,Car/Truck Music,12,21,29
+572,Car/Truck Music,12,22,42
+573,Car/Truck Music,12,23,35
+574,Loud Music/Party,1,00,630
+575,Loud Music/Party,1,01,441
+576,Loud Music/Party,1,02,325
+577,Loud Music/Party,1,03,197
+578,Loud Music/Party,1,04,160
+579,Loud Music/Party,1,05,99
+580,Loud Music/Party,1,06,62
+581,Loud Music/Party,1,07,38
+582,Loud Music/Party,1,08,40
+583,Loud Music/Party,1,09,96
+584,Loud Music/Party,1,10,77
+585,Loud Music/Party,1,11,124
+586,Loud Music/Party,1,12,272
+587,Loud Music/Party,1,13,364
+588,Loud Music/Party,1,14,334
+589,Loud Music/Party,1,15,309
+590,Loud Music/Party,1,16,267
+591,Loud Music/Party,1,17,436
+592,Loud Music/Party,1,18,630
+593,Loud Music/Party,1,19,450
+594,Loud Music/Party,1,20,382
+595,Loud Music/Party,1,21,552
+596,Loud Music/Party,1,22,711
+597,Loud Music/Party,1,23,722
+598,Loud Music/Party,2,00,503
+599,Loud Music/Party,2,01,358
+600,Loud Music/Party,2,02,251
+601,Loud Music/Party,2,03,210
+602,Loud Music/Party,2,04,92
+603,Loud Music/Party,2,05,60
+604,Loud Music/Party,2,06,51
+605,Loud Music/Party,2,07,27
+606,Loud Music/Party,2,08,46
+607,Loud Music/Party,2,09,29
+608,Loud Music/Party,2,10,45
+609,Loud Music/Party,2,11,34
+610,Loud Music/Party,2,12,51
+611,Loud Music/Party,2,13,62
+612,Loud Music/Party,2,14,76
+613,Loud Music/Party,2,15,84
+614,Loud Music/Party,2,16,92
+615,Loud Music/Party,2,17,117
+616,Loud Music/Party,2,18,132
+617,Loud Music/Party,2,19,147
+618,Loud Music/Party,2,20,227
+619,Loud Music/Party,2,21,275
+620,Loud Music/Party,2,22,453
+621,Loud Music/Party,2,23,430
+622,Loud Music/Party,3,00,641
+623,Loud Music/Party,3,01,436
+624,Loud Music/Party,3,02,268
+625,Loud Music/Party,3,03,185
+626,Loud Music/Party,3,04,123
+627,Loud Music/Party,3,05,57
+628,Loud Music/Party,3,06,38
+629,Loud Music/Party,3,07,47
+630,Loud Music/Party,3,08,41
+631,Loud Music/Party,3,09,38
+632,Loud Music/Party,3,10,48
+633,Loud Music/Party,3,11,71
+634,Loud Music/Party,3,12,89
+635,Loud Music/Party,3,13,124
+636,Loud Music/Party,3,14,138
+637,Loud Music/Party,3,15,176
+638,Loud Music/Party,3,16,175
+639,Loud Music/Party,3,17,242
+640,Loud Music/Party,3,18,295
+641,Loud Music/Party,3,19,385
+642,Loud Music/Party,3,20,422
+643,Loud Music/Party,3,21,539
+644,Loud Music/Party,3,22,710
+645,Loud Music/Party,3,23,781
+646,Loud Music/Party,4,00,887
+647,Loud Music/Party,4,01,581
+648,Loud Music/Party,4,02,330
+649,Loud Music/Party,4,03,200
+650,Loud Music/Party,4,04,129
+651,Loud Music/Party,4,05,59
+652,Loud Music/Party,4,06,37
+653,Loud Music/Party,4,07,22
+654,Loud Music/Party,4,08,41
+655,Loud Music/Party,4,09,32
+656,Loud Music/Party,4,10,52
+657,Loud Music/Party,4,11,80
+658,Loud Music/Party,4,12,104
+659,Loud Music/Party,4,13,157
+660,Loud Music/Party,4,14,146
+661,Loud Music/Party,4,15,184
+662,Loud Music/Party,4,16,277
+663,Loud Music/Party,4,17,400
+664,Loud Music/Party,4,18,492
+665,Loud Music/Party,4,19,585
+666,Loud Music/Party,4,20,730
+667,Loud Music/Party,4,21,855
+668,Loud Music/Party,4,22,1050
+669,Loud Music/Party,4,23,982
+670,Loud Music/Party,5,00,1612
+671,Loud Music/Party,5,01,1169
+672,Loud Music/Party,5,02,683
+673,Loud Music/Party,5,03,474
+674,Loud Music/Party,5,04,320
+675,Loud Music/Party,5,05,122
+676,Loud Music/Party,5,06,66
+677,Loud Music/Party,5,07,59
+678,Loud Music/Party,5,08,71
+679,Loud Music/Party,5,09,51
+680,Loud Music/Party,5,10,57
+681,Loud Music/Party,5,11,81
+682,Loud Music/Party,5,12,91
+683,Loud Music/Party,5,13,146
+684,Loud Music/Party,5,14,224
+685,Loud Music/Party,5,15,260
+686,Loud Music/Party,5,16,337
+687,Loud Music/Party,5,17,484
+688,Loud Music/Party,5,18,622
+689,Loud Music/Party,5,19,864
+690,Loud Music/Party,5,20,1249
+691,Loud Music/Party,5,21,1694
+692,Loud Music/Party,5,22,2077
+693,Loud Music/Party,5,23,2026
+694,Loud Music/Party,6,00,2127
+695,Loud Music/Party,6,01,1429
+696,Loud Music/Party,6,02,868
+697,Loud Music/Party,6,03,508
+698,Loud Music/Party,6,04,334
+699,Loud Music/Party,6,05,167
+700,Loud Music/Party,6,06,112
+701,Loud Music/Party,6,07,47
+702,Loud Music/Party,6,08,35
+703,Loud Music/Party,6,09,50
+704,Loud Music/Party,6,10,57
+705,Loud Music/Party,6,11,76
+706,Loud Music/Party,6,12,149
+707,Loud Music/Party,6,13,204
+708,Loud Music/Party,6,14,197
+709,Loud Music/Party,6,15,289
+710,Loud Music/Party,6,16,399
+711,Loud Music/Party,6,17,500
+712,Loud Music/Party,6,18,824
+713,Loud Music/Party,6,19,954
+714,Loud Music/Party,6,20,1635
+715,Loud Music/Party,6,21,2232
+716,Loud Music/Party,6,22,2581
+717,Loud Music/Party,6,23,2521
+718,Loud Music/Party,7,00,2333
+719,Loud Music/Party,7,01,1896
+720,Loud Music/Party,7,02,1145
+721,Loud Music/Party,7,03,888
+722,Loud Music/Party,7,04,852
+723,Loud Music/Party,7,05,726
+724,Loud Music/Party,7,06,685
+725,Loud Music/Party,7,07,646
+726,Loud Music/Party,7,08,615
+727,Loud Music/Party,7,09,582
+728,Loud Music/Party,7,10,561
+729,Loud Music/Party,7,11,563
+730,Loud Music/Party,7,12,560
+731,Loud Music/Party,7,13,539
+732,Loud Music/Party,7,14,480
+733,Loud Music/Party,7,15,551
+734,Loud Music/Party,7,16,761
+735,Loud Music/Party,7,17,991
+736,Loud Music/Party,7,18,1110
+737,Loud Music/Party,7,19,1365
+738,Loud Music/Party,7,20,1921
+739,Loud Music/Party,7,21,2319
+740,Loud Music/Party,7,22,2656
+741,Loud Music/Party,7,23,2759
+742,Loud Music/Party,8,00,1963
+743,Loud Music/Party,8,01,1404
+744,Loud Music/Party,8,02,1004
+745,Loud Music/Party,8,03,706
+746,Loud Music/Party,8,04,489
+747,Loud Music/Party,8,05,294
+748,Loud Music/Party,8,06,137
+749,Loud Music/Party,8,07,124
+750,Loud Music/Party,8,08,103
+751,Loud Music/Party,8,09,114
+752,Loud Music/Party,8,10,152
+753,Loud Music/Party,8,11,185
+754,Loud Music/Party,8,12,198
+755,Loud Music/Party,8,13,292
+756,Loud Music/Party,8,14,415
+757,Loud Music/Party,8,15,490
+758,Loud Music/Party,8,16,539
+759,Loud Music/Party,8,17,574
+760,Loud Music/Party,8,18,778
+761,Loud Music/Party,8,19,1397
+762,Loud Music/Party,8,20,1646
+763,Loud Music/Party,8,21,1908
+764,Loud Music/Party,8,22,2174
+765,Loud Music/Party,8,23,1998
+766,Loud Music/Party,9,00,1874
+767,Loud Music/Party,9,01,1361
+768,Loud Music/Party,9,02,894
+769,Loud Music/Party,9,03,703
+770,Loud Music/Party,9,04,434
+771,Loud Music/Party,9,05,342
+772,Loud Music/Party,9,06,182
+773,Loud Music/Party,9,07,215
+774,Loud Music/Party,9,08,185
+775,Loud Music/Party,9,09,183
+776,Loud Music/Party,9,10,167
+777,Loud Music/Party,9,11,107
+778,Loud Music/Party,9,12,132
+779,Loud Music/Party,9,13,310
+780,Loud Music/Party,9,14,422
+781,Loud Music/Party,9,15,324
+782,Loud Music/Party,9,16,444
+783,Loud Music/Party,9,17,745
+784,Loud Music/Party,9,18,903
+785,Loud Music/Party,9,19,1489
+786,Loud Music/Party,9,20,1990
+787,Loud Music/Party,9,21,2293
+788,Loud Music/Party,9,22,2421
+789,Loud Music/Party,9,23,2370
+790,Loud Music/Party,10,00,1105
+791,Loud Music/Party,10,01,691
+792,Loud Music/Party,10,02,436
+793,Loud Music/Party,10,03,295
+794,Loud Music/Party,10,04,216
+795,Loud Music/Party,10,05,108
+796,Loud Music/Party,10,06,68
+797,Loud Music/Party,10,07,45
+798,Loud Music/Party,10,08,36
+799,Loud Music/Party,10,09,53
+800,Loud Music/Party,10,10,50
+801,Loud Music/Party,10,11,154
+802,Loud Music/Party,10,12,219
+803,Loud Music/Party,10,13,238
+804,Loud Music/Party,10,14,312
+805,Loud Music/Party,10,15,247
+806,Loud Music/Party,10,16,323
+807,Loud Music/Party,10,17,550
+808,Loud Music/Party,10,18,608
+809,Loud Music/Party,10,19,720
+810,Loud Music/Party,10,20,1012
+811,Loud Music/Party,10,21,1037
+812,Loud Music/Party,10,22,1128
+813,Loud Music/Party,10,23,1101
+814,Loud Music/Party,11,00,437
+815,Loud Music/Party,11,01,389
+816,Loud Music/Party,11,02,264
+817,Loud Music/Party,11,03,169
+818,Loud Music/Party,11,04,92
+819,Loud Music/Party,11,05,65
+820,Loud Music/Party,11,06,47
+821,Loud Music/Party,11,07,22
+822,Loud Music/Party,11,08,29
+823,Loud Music/Party,11,09,33
+824,Loud Music/Party,11,10,41
+825,Loud Music/Party,11,11,54
+826,Loud Music/Party,11,12,70
+827,Loud Music/Party,11,13,195
+828,Loud Music/Party,11,14,241
+829,Loud Music/Party,11,15,270
+830,Loud Music/Party,11,16,276
+831,Loud Music/Party,11,17,220
+832,Loud Music/Party,11,18,237
+833,Loud Music/Party,11,19,225
+834,Loud Music/Party,11,20,255
+835,Loud Music/Party,11,21,387
+836,Loud Music/Party,11,22,528
+837,Loud Music/Party,11,23,439
+838,Loud Music/Party,12,00,386
+839,Loud Music/Party,12,01,313
+840,Loud Music/Party,12,02,241
+841,Loud Music/Party,12,03,169
+842,Loud Music/Party,12,04,81
+843,Loud Music/Party,12,05,50
+844,Loud Music/Party,12,06,39
+845,Loud Music/Party,12,07,33
+846,Loud Music/Party,12,08,35
+847,Loud Music/Party,12,09,37
+848,Loud Music/Party,12,10,35
+849,Loud Music/Party,12,11,61
+850,Loud Music/Party,12,12,110
+851,Loud Music/Party,12,13,114
+852,Loud Music/Party,12,14,125
+853,Loud Music/Party,12,15,141
+854,Loud Music/Party,12,16,170
+855,Loud Music/Party,12,17,145
+856,Loud Music/Party,12,18,185
+857,Loud Music/Party,12,19,211
+858,Loud Music/Party,12,20,326
+859,Loud Music/Party,12,21,419
+860,Loud Music/Party,12,22,412
+861,Loud Music/Party,12,23,481
+862,Loud Talking,1,00,34
+863,Loud Talking,1,01,24
+864,Loud Talking,1,02,14
+865,Loud Talking,1,03,16
+866,Loud Talking,1,04,10
+867,Loud Talking,1,05,9
+868,Loud Talking,1,06,8
+869,Loud Talking,1,07,13
+870,Loud Talking,1,08,16
+871,Loud Talking,1,09,19
+872,Loud Talking,1,10,20
+873,Loud Talking,1,11,12
+874,Loud Talking,1,12,20
+875,Loud Talking,1,13,21
+876,Loud Talking,1,14,18
+877,Loud Talking,1,15,24
+878,Loud Talking,1,16,21
+879,Loud Talking,1,17,37
+880,Loud Talking,1,18,39
+881,Loud Talking,1,19,60
+882,Loud Talking,1,20,35
+883,Loud Talking,1,21,71
+884,Loud Talking,1,22,47
+885,Loud Talking,1,23,51
+886,Loud Talking,2,00,49
+887,Loud Talking,2,01,26
+888,Loud Talking,2,02,16
+889,Loud Talking,2,03,23
+890,Loud Talking,2,04,13
+891,Loud Talking,2,05,3
+892,Loud Talking,2,06,8
+893,Loud Talking,2,07,7
+894,Loud Talking,2,08,13
+895,Loud Talking,2,09,7
+896,Loud Talking,2,10,14
+897,Loud Talking,2,11,23
+898,Loud Talking,2,12,14
+899,Loud Talking,2,13,22
+900,Loud Talking,2,14,22
+901,Loud Talking,2,15,27
+902,Loud Talking,2,16,27
+903,Loud Talking,2,17,48
+904,Loud Talking,2,18,57
+905,Loud Talking,2,19,62
+906,Loud Talking,2,20,45
+907,Loud Talking,2,21,47
+908,Loud Talking,2,22,80
+909,Loud Talking,2,23,75
+910,Loud Talking,3,00,64
+911,Loud Talking,3,01,38
+912,Loud Talking,3,02,28
+913,Loud Talking,3,03,22
+914,Loud Talking,3,04,11
+915,Loud Talking,3,05,8
+916,Loud Talking,3,06,5
+917,Loud Talking,3,07,10
+918,Loud Talking,3,08,11
+919,Loud Talking,3,09,14
+920,Loud Talking,3,10,28
+921,Loud Talking,3,11,22
+922,Loud Talking,3,12,37
+923,Loud Talking,3,13,38
+924,Loud Talking,3,14,27
+925,Loud Talking,3,15,35
+926,Loud Talking,3,16,18
+927,Loud Talking,3,17,46
+928,Loud Talking,3,18,103
+929,Loud Talking,3,19,107
+930,Loud Talking,3,20,100
+931,Loud Talking,3,21,59
+932,Loud Talking,3,22,67
+933,Loud Talking,3,23,75
+934,Loud Talking,4,00,89
+935,Loud Talking,4,01,41
+936,Loud Talking,4,02,43
+937,Loud Talking,4,03,13
+938,Loud Talking,4,04,9
+939,Loud Talking,4,05,4
+940,Loud Talking,4,06,7
+941,Loud Talking,4,07,16
+942,Loud Talking,4,08,8
+943,Loud Talking,4,09,16
+944,Loud Talking,4,10,30
+945,Loud Talking,4,11,19
+946,Loud Talking,4,12,26
+947,Loud Talking,4,13,33
+948,Loud Talking,4,14,52
+949,Loud Talking,4,15,66
+950,Loud Talking,4,16,39
+951,Loud Talking,4,17,33
+952,Loud Talking,4,18,78
+953,Loud Talking,4,19,89
+954,Loud Talking,4,20,97
+955,Loud Talking,4,21,100
+956,Loud Talking,4,22,102
+957,Loud Talking,4,23,124
+958,Loud Talking,5,00,97
+959,Loud Talking,5,01,61
+960,Loud Talking,5,02,36
+961,Loud Talking,5,03,15
+962,Loud Talking,5,04,14
+963,Loud Talking,5,05,14
+964,Loud Talking,5,06,13
+965,Loud Talking,5,07,16
+966,Loud Talking,5,08,21
+967,Loud Talking,5,09,18
+968,Loud Talking,5,10,11
+969,Loud Talking,5,11,17
+970,Loud Talking,5,12,17
+971,Loud Talking,5,13,23
+972,Loud Talking,5,14,40
+973,Loud Talking,5,15,44
+974,Loud Talking,5,16,34
+975,Loud Talking,5,17,37
+976,Loud Talking,5,18,63
+977,Loud Talking,5,19,127
+978,Loud Talking,5,20,96
+979,Loud Talking,5,21,99
+980,Loud Talking,5,22,117
+981,Loud Talking,5,23,115
+982,Loud Talking,6,00,88
+983,Loud Talking,6,01,41
+984,Loud Talking,6,02,43
+985,Loud Talking,6,03,39
+986,Loud Talking,6,04,12
+987,Loud Talking,6,05,5
+988,Loud Talking,6,06,5
+989,Loud Talking,6,07,7
+990,Loud Talking,6,08,10
+991,Loud Talking,6,09,22
+992,Loud Talking,6,10,14
+993,Loud Talking,6,11,17
+994,Loud Talking,6,12,20
+995,Loud Talking,6,13,17
+996,Loud Talking,6,14,23
+997,Loud Talking,6,15,15
+998,Loud Talking,6,16,31
+999,Loud Talking,6,17,24
+1000,Loud Talking,6,18,62
+1001,Loud Talking,6,19,78
+1002,Loud Talking,6,20,73
+1003,Loud Talking,6,21,106
+1004,Loud Talking,6,22,102
+1005,Loud Talking,6,23,127
+1006,Loud Talking,7,00,72
+1007,Loud Talking,7,01,48
+1008,Loud Talking,7,02,32
+1009,Loud Talking,7,03,24
+1010,Loud Talking,7,04,19
+1011,Loud Talking,7,05,19
+1012,Loud Talking,7,06,7
+1013,Loud Talking,7,07,11
+1014,Loud Talking,7,08,10
+1015,Loud Talking,7,09,13
+1016,Loud Talking,7,10,8
+1017,Loud Talking,7,11,11
+1018,Loud Talking,7,12,14
+1019,Loud Talking,7,13,10
+1020,Loud Talking,7,14,22
+1021,Loud Talking,7,15,31
+1022,Loud Talking,7,16,15
+1023,Loud Talking,7,17,35
+1024,Loud Talking,7,18,56
+1025,Loud Talking,7,19,64
+1026,Loud Talking,7,20,56
+1027,Loud Talking,7,21,67
+1028,Loud Talking,7,22,73
+1029,Loud Talking,7,23,79
+1030,Loud Talking,8,00,67
+1031,Loud Talking,8,01,34
+1032,Loud Talking,8,02,29
+1033,Loud Talking,8,03,29
+1034,Loud Talking,8,04,16
+1035,Loud Talking,8,05,21
+1036,Loud Talking,8,06,2
+1037,Loud Talking,8,07,5
+1038,Loud Talking,8,08,10
+1039,Loud Talking,8,09,9
+1040,Loud Talking,8,10,6
+1041,Loud Talking,8,11,4
+1042,Loud Talking,8,12,13
+1043,Loud Talking,8,13,18
+1044,Loud Talking,8,14,13
+1045,Loud Talking,8,15,17
+1046,Loud Talking,8,16,28
+1047,Loud Talking,8,17,27
+1048,Loud Talking,8,18,36
+1049,Loud Talking,8,19,44
+1050,Loud Talking,8,20,48
+1051,Loud Talking,8,21,71
+1052,Loud Talking,8,22,63
+1053,Loud Talking,8,23,90
+1054,Loud Talking,9,00,52
+1055,Loud Talking,9,01,32
+1056,Loud Talking,9,02,42
+1057,Loud Talking,9,03,21
+1058,Loud Talking,9,04,17
+1059,Loud Talking,9,05,14
+1060,Loud Talking,9,06,6
+1061,Loud Talking,9,07,9
+1062,Loud Talking,9,08,12
+1063,Loud Talking,9,09,13
+1064,Loud Talking,9,10,22
+1065,Loud Talking,9,11,12
+1066,Loud Talking,9,12,24
+1067,Loud Talking,9,13,21
+1068,Loud Talking,9,14,27
+1069,Loud Talking,9,15,27
+1070,Loud Talking,9,16,37
+1071,Loud Talking,9,17,40
+1072,Loud Talking,9,18,63
+1073,Loud Talking,9,19,105
+1074,Loud Talking,9,20,80
+1075,Loud Talking,9,21,72
+1076,Loud Talking,9,22,64
+1077,Loud Talking,9,23,80
+1078,Loud Talking,10,00,77
+1079,Loud Talking,10,01,40
+1080,Loud Talking,10,02,27
+1081,Loud Talking,10,03,28
+1082,Loud Talking,10,04,21
+1083,Loud Talking,10,05,17
+1084,Loud Talking,10,06,17
+1085,Loud Talking,10,07,14
+1086,Loud Talking,10,08,12
+1087,Loud Talking,10,09,16
+1088,Loud Talking,10,10,17
+1089,Loud Talking,10,11,15
+1090,Loud Talking,10,12,25
+1091,Loud Talking,10,13,28
+1092,Loud Talking,10,14,23
+1093,Loud Talking,10,15,42
+1094,Loud Talking,10,16,46
+1095,Loud Talking,10,17,53
+1096,Loud Talking,10,18,86
+1097,Loud Talking,10,19,93
+1098,Loud Talking,10,20,86
+1099,Loud Talking,10,21,78
+1100,Loud Talking,10,22,98
+1101,Loud Talking,10,23,80
+1102,Loud Talking,11,00,57
+1103,Loud Talking,11,01,27
+1104,Loud Talking,11,02,24
+1105,Loud Talking,11,03,34
+1106,Loud Talking,11,04,20
+1107,Loud Talking,11,05,18
+1108,Loud Talking,11,06,7
+1109,Loud Talking,11,07,10
+1110,Loud Talking,11,08,8
+1111,Loud Talking,11,09,12
+1112,Loud Talking,11,10,24
+1113,Loud Talking,11,11,16
+1114,Loud Talking,11,12,13
+1115,Loud Talking,11,13,27
+1116,Loud Talking,11,14,16
+1117,Loud Talking,11,15,22
+1118,Loud Talking,11,16,35
+1119,Loud Talking,11,17,48
+1120,Loud Talking,11,18,48
+1121,Loud Talking,11,19,59
+1122,Loud Talking,11,20,54
+1123,Loud Talking,11,21,52
+1124,Loud Talking,11,22,51
+1125,Loud Talking,11,23,51
+1126,Loud Talking,12,00,37
+1127,Loud Talking,12,01,23
+1128,Loud Talking,12,02,16
+1129,Loud Talking,12,03,15
+1130,Loud Talking,12,04,26
+1131,Loud Talking,12,05,18
+1132,Loud Talking,12,06,10
+1133,Loud Talking,12,07,16
+1134,Loud Talking,12,08,11
+1135,Loud Talking,12,09,12
+1136,Loud Talking,12,10,11
+1137,Loud Talking,12,11,9
+1138,Loud Talking,12,12,16
+1139,Loud Talking,12,13,22
+1140,Loud Talking,12,14,30
+1141,Loud Talking,12,15,24
+1142,Loud Talking,12,16,28
+1143,Loud Talking,12,17,34
+1144,Loud Talking,12,18,46
+1145,Loud Talking,12,19,51
+1146,Loud Talking,12,20,66
+1147,Loud Talking,12,21,71
+1148,Loud Talking,12,22,32
+1149,Loud Talking,12,23,34
